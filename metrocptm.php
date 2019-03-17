@@ -87,13 +87,13 @@ class Status_Cptm_Metro extends WP_Widget {
 
 			// Mostra linhas da CPTM
 			if ( $cptm ) {
-				echo '<p>Mostra linhas da CPTM</p>';
+				echo '<p>Mostra status das linhas da CPTM</p>';
 			}
 
 			// Mostra linhas do Metrô
 
 			if ( $metro ) {
-				echo '<p>Mostra linhas do Metrô</p>';
+				echo '<p>Mostra status das linhas do Metrô</p>';
 			}
 
 		echo '</div>';
